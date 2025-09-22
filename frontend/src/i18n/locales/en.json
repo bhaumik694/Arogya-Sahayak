@@ -1,0 +1,266 @@
+{
+  "home": {
+    "hero": {
+      "title": "Aarogya Sahayok",
+      "subtitle1": "Bridging the Rural Health Divide",
+      "subtitle": "Your health our policy – simple steps to manage diabetes and BP with one guidance in your language",
+      "cta_main": "Start Your Health Check",
+      "cta_secondary": "Explore Health Resources",
+      "image_alt": "Image of a woman"
+    },
+    "matters": {
+      "title": "Why it matters",
+      "subtitle": "Bringing care closer to home for Tier-2/3 towns and villages",
+      "card1_title": "Multilingual Interface",
+      "card1_desc": "Use the app in your preferred language",
+      "card2_title": "Personalized Health Feed",
+      "card2_desc": "Give tips based on your health data and other accessories"
+    },
+    "what_you_can_do": {
+      "title": "What you can do?"
+    },
+    "features": {
+      "multilingual": {
+        "title": "Multilingual Interface",
+        "description": "Available in Hindi, Marathi, Bengali and more."
+      },
+      "connect": {
+        "title": "Health Worker Connect",
+        "description": "Chat or call local ASHA workers for timely help."
+      },
+      "reminders": {
+        "title": "Automated Reminders",
+        "description": "Medication and check-up alerts to keep you on track."
+      },
+      "vitals": {
+        "title": "Daily Vitals Logging",
+        "description": "Log sugar, BP, and weight with simple visuals."
+      },
+      "feed": {
+        "title": "Personalized Health Feed",
+        "description": "Easy advice on diet and exercise in your language."
+      },
+      "clinics": {
+        "title": "Local Clinics & Programs",
+        "description": "Find nearby PHCs and government schemes."
+      },
+      "privacy": {
+        "title": "Safe & Private",
+        "description": "Your health data stays secure and in your control."
+      }
+    }
+  },
+  "bottomNav": {
+    "dashboard": "Dashboard",
+    "feed": "Feed",
+    "helpers": "Helpers",
+    "profile": "Profile"
+  },
+  "dashboard": {
+    "loading": "Loading...",
+    "welcome": "Welcome Back,",
+    "vitals": "Today's Vitals",
+    "update": "Update Today",
+    "glucose": "Blood Glucose",
+    "pressure": "Blood Pressure",
+    "weight": "Weight",
+    "hr": "Heart Rate",
+    "trend": "Vitals Trend",
+    "all": "All",
+    "week": "Week",
+    "month": "Month",
+    "worker": "Assigned Health Worker",
+    "noworker": "No worker assigned yet.",
+    "sbp": "Systolic Blood Pressure",
+    "dbp": "Diastolic Blood Pressure",
+    "bs": "Blood Sugar",
+    "book": "Book",
+    "chat": "Chat",
+    "appointment": "Book Appointment",
+    "send": "Send",
+    "time_select": "Select Time",
+    "confirm": "Confirm",
+    "alert": "Please fill all fields (Glucose, Systolic, Diastolic, Weight, HR",
+    "cancel": "Cancel",
+    "save": "Save",
+    "update_vitals": "Update Today's Vitals"
+  },
+  "helpers": {
+    "title": "Connect to Helpers",
+    "cancel": "Cancel",
+    "filters": {
+      "DiabetesManagement": "Diabetes Management",
+      "rating": "Rating",
+      "Hindi": "Hindi",
+      "English": "English",
+      "Kannada": "Kannada"
+    },
+    "mapPlaceholder": "Map Placeholder",
+    "nearbyHelpers": "Nearby Helpers",
+    "locationDenied": "Please enable location access to find helpers nearby.",
+    "searching": "Searching helpers in {{radius}}km Radius",
+    "noHelpersFound": "No helpers match your filters.",
+    "callButton": "Call Helper",
+    "systemMessages": {
+      "connectedWith": "You are now connected with {{name}}. You can start the conversation.",
+      "helperReply": "Thank you for your message. I am looking into your request."
+    },
+    "chat": {
+      "helperHello": "Hello! How can I help you today?",
+      "online": "Online",
+      "typeAMessage": "Type a message..."
+    }
+  },
+  "feed": {
+    "new_feed_count": "New Feed (6)"
+  },
+  "loginPage": {
+    "title": "Welcome Back",
+    "subtitle": "Sign in to continue your health journey",
+    "tabs": {
+      "password": "Password",
+      "otp": "OTP"
+    },
+    "phonePlaceholder": "Phone Number",
+    "passwordPlaceholder": "Enter your password",
+    "forgotPassword": "Forgot password? Use OTP",
+    "signInButton": "Sign In",
+    "noAccountText": "Don't have an account?",
+    "signUpLink": "Sign up here",
+    "termsText": "By signing in, you agree to our Terms of Service and Privacy Policy"
+  },
+
+  "signupPage": {
+    "header": {
+      "logoAlt": "Heart health icon",
+      "appName": "Aarogya Sahayak",
+      "tagline": "Your trusted health companion for chronic disease management"
+    },
+
+    "title": "Contact Information",
+    "subtitle": "We’ll use this to keep you connected",
+    "fields": {
+      "phoneNumber": {
+        "label": "Phone Number *",
+        "placeholder": "+91"
+      },
+      "email": {
+        "label": "Email (Optional)",
+        "placeholder": "your.email@example.com"
+      }
+    },
+    "buttons": {
+      "sendOtp": "Send OTP",
+      "continue": "Continue"
+    },
+    "footer": {
+      "haveAccountText": "Don't have an account?",
+      "loginLink": "Log in here",
+      "termsText": "By creating an account, you agree to our Terms of Service and Privacy Policy"
+    },
+    "verificationStatus": {
+      "message": "Phone verified!"
+    },
+
+    "Personal": {
+      "title": "Personal Details",
+      "subtitle": "Help us know you better",
+      "fields1": {
+        "fullName": {
+          "label": "Full Name *",
+          "placeholder": "Enter your full name"
+        },
+        "age": {
+          "label": "Age",
+          "placeholder": "25"
+        },
+        "gender": {
+          "label": "Gender",
+          "options": ["Male", "Female", "Other", "Prefer not to say"]
+        },
+        "weight": {
+          "label": "Weight (kg)",
+          "placeholder": "65"
+        },
+        "height": {
+          "label": "Height (cm)",
+          "placeholder": "170"
+        },
+        "mealPreference": {
+          "label": "Meal Preference",
+          "options": ["Vegetarian", "Non-Vegetarian", "Vegan", "Other"]
+        },
+        "preferredLanguage": {
+          "label": "Preferred Language",
+          "options": [
+            "English",
+            "हिंदी",
+            "मराठी",
+            "বাংলা",
+            "தமிழ்",
+            "తెలుగు",
+            "ಕನ್ನಡ"
+          ]
+        }
+      },
+      "buttons": {
+        "previous": "Previous",
+        "continue": "Continue"
+      }
+    },
+    "Health": {
+      "title": "Health Information",
+      "subtitle": "Help us provide better care",
+      "fields": {
+        "role": {
+          "label": "Role *",
+          "placeholder": "Select your role",
+          "options": ["Patient", "Caregiver", "Health Worker", "Other"]
+        },
+        "chronicConditions": {
+          "label": "Do you have any chronic conditions? (Select all that apply)",
+          "options": [
+            "Diabetes",
+            "Hypertension",
+            "Heart Disease",
+            "Kidney Disease",
+            "Asthma",
+            "Arthritis",
+            "Thyroid",
+            "Obesity"
+          ]
+        }
+      },
+      "Location": {
+        "title": "Location Details",
+        "subtitle": "Help us connect you with local health workers",
+        "fields": {
+          "state": {
+            "label": "State",
+            "placeholder": "Select your state"
+          },
+          "district": {
+            "label": "District",
+            "placeholder": "Enter your district"
+          },
+          "villageCity": {
+            "label": "Village/City",
+            "placeholder": "Enter your village or city"
+          },
+          "fullAddress": {
+            "label": "Full Address",
+            "placeholder": "Enter your complete address"
+          }
+        },
+        "buttons": {
+          "useLocation": "Use current location",
+          "previous": "Previous",
+          "createAccount": "Create Account"
+        },
+        "locationStatus": {
+          "notSet": "Location not set"
+        }
+      }
+    }
+  }
+}
